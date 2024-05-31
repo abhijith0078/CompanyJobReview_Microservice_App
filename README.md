@@ -1,2 +1,2 @@
 # CompanyJobReview_Microservice_App
-A company application. where user can register a company and jobs. Jobs are mapped to a particular company. also User can raise reviews against each company.
+A company application. Companies can register their company and jobs in a portal, and jobs are mapped to a particular company. Also, users can create reviews against each company.
